@@ -1,0 +1,9 @@
+**Objetivo**: Este projeto tem como escopo extrair insights e quantificar os efeitos do histórico de vendas recentes e fatores externos como condições climáticas e datas, sobre o total de vendas diárias. Este projeto abre ainda, um leque para posteriormente fazer uma análise do impacto do clima nas vendas diárias dos produtos agregados por setor (Classe 1) ou ainda nas famílias de produtos (Classe 2).
+
+**Cenário**: Você provavelmente já esteve em um Snooker Bar e naturalmente também já embriagou-se com seus amigos e pôde notar que o score de acertos de suas lindas tacadas está diretamente correlacionado com nível de álcool no seu organismo. Nós, que estamos do lado de cá do balcão, podemos observar isso diariamente, e se você concorda com tal afirmação, é possível a sua experiência tenha sido enviesada.
+
+Faz parte da rotina de atividades do gestor de um bar, fazer previsões de demanda para oferecer os produtos que os clientes desejam sem interrupções. Uma boa gestão de estoque requer uma previsão de demanda assertiva, no ramo de bares, esta tarefa deve estar muito bem alinhada com sazonalidades, datas comemorativas, e outros eventos dos mais variados tipos. Como você bem sabe, às sextas e sábados os barzinhos estão quase sempre cheios, também nem precisaríamos te informar que cervejas combinam perfeitamente com o calor, e que em dias quentes, nós esperamos um fluxo maior de vendas.
+
+**Informações importantes**: Os dados são reais, coletados entre 01/05/2017 e 20/03/2020, disponibilizados por relatório pelo software de gerenciamento de vendas Getoman. O businessday da empresa é de terça à domingo.
+
+Somos um reataurante, e como todo restaurante, nos referimos ao valor total consumido por todos os integrantes de uma mesa de amigos como "Comanda". Este termo irá se repetir bastante durante a documentação.
