@@ -1,7 +1,7 @@
-## Estágio do projeto:
-Ciclo 1: Pipeline de dados funcional de ponta a ponta, desde a coleta dos dados até o treinamento do modelo.
-
-## 0.1 Cenário: 
+# Bar Sales Predict
+## Bar Forecast Weekly Sales
+![](img/capa.jpg)
+## 1. Problema de Negócio: 
 O B7 Bar é um Snooker Bar localizado no Brasil, no estado de São Paulo e atua no setor de bares e restaurantes. Os principais produtos/serviços do B7 Snooker Bar são: aluguel de mesas de bilhar para utilização no local e venda de comidas e bebidas para consumo no local ou delivery.
 
 A empresa conta com um time de colaboradores efetivos, o time está sempre compatível com a demanda ao longo do tempo. Além dos colaboradores efetivos, o bar também contrata colaboradores freelancers, para equilibrar a forte sazonalidade semanal, típica do setor de bares. O equilíbrio entre contratação de colaboradores freelancers e a demanda, é o tema secundário deste projeto.
@@ -20,30 +20,39 @@ Por motivo de sigilo, foram omitidos do dataset, 12 produtos que são considerad
 
 A empresa B7 é um bar, e como todo bar, nos referimos ao valor total consumido pela mesa como "Comanda". Este termo irá se repetir bastante durante o projeto. Os dados são reais, coletados entre 02/01/2018 e 20/03/2020.
 
-## 0.2 Premissas:
+## 2. Premissas:
 1. ...
 
-## 0.3 Estratégia da Solução:
+## 3. Estratégia da Solução:
 
-###### 0.3.1 Objetivos:
+###### 3.1. Objetivos:
 1. Principais insights sobre as features mais importantes para o faturamento.
 2. Quanto de retorno financeiro anual a empresa terá ao utilizar o modelo de predições?
 3. Qual será o faturamente total semanal imediatamente seguinte ao dataset? Qual será o faturamento total semanal dos produtos agregados por Classe 1?
 
-###### 0.3.2 Proposta de Solução:
+###### 3.2. Proposta de Solução:
 
-###### 0.3.3 Inputs:
+###### 3.3. Inputs:
 
-###### 0.3.4 Outputs:
+###### 3.4. Outputs:
 
+## 4. Top 3 Data Insights:
 
-## 0.4 Sumário:
+## 5. Machine Learning Model Applied:
 
-## 0.5 Resultados e Conclusão:
+## 6. Machine Learning Model Performance:
 
-## 0.6 Significado das Features:
+## 7. Resultados Financeiros:
 
-###### 0.6.1 bilhar:
+## 8. Conclusão:
+
+## 9. Aprendizados:
+
+## 10. Próximos Passos:
+
+## 11. Sumário:
+
+###### 11.1 bilhar:
 1. No: ID da mesa aberta no sistema, é a 'key' da comanda do cliente no sistema, uma vêz que a comanda se encerra, este número nunca mais se repete.
 2. Name: Número da mesa física no ambiente de atendimento.
 3. Start Time: Horário de início da abertura da comanda do cliente.
@@ -55,7 +64,7 @@ A empresa B7 é um bar, e como todo bar, nos referimos ao valor total consumido 
 9. Preço/Hora: Custo do bilhar por hora. O bilhar é cobrado por hora e não por partida (ficha). Os preços podem variar de acordo com dias de semana, promoções e tamanho de mesa de bilhar (A casa conta com mesas de bilhar de tamanho oficial, semi-oficial, oficial americana, e universitárias.
 10. Data: Data do início da abertura da comanda.
 
-###### 0.6.2 produtos:
+###### 11.2 produtos:
 1. Time: Horário da venda do ítem.
 2. Purchaser: Mesa física em que o produto foi servido.
 3. Item: Nome do produto
