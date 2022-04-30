@@ -1,6 +1,6 @@
 # Bar Sales Predict
 ## Bar Forecast Weekly Sales
-![](img/capa.jpg)
+![](img/capa_model.jpg)
 ## 1. Problema de Negócio: 
 O B7 Bar é um Snooker Bar localizado no Brasil, no estado de São Paulo e atua no setor de bares e restaurantes. Os principais produtos/serviços do B7 Snooker Bar são: aluguel de mesas de bilhar para utilização no local e venda de comidas e bebidas para consumo no local ou delivery.
 
