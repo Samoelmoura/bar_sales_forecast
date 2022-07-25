@@ -61,3 +61,5 @@ A empresa B7 é um bar, e como todo bar, nos referimos ao valor total consumido 
 * Classe 1: Classificação dos produtos segundo a sua natureza de consumo, diretamente relacionado aos setores, diferencia cozinha, bar, bilhar e etc.
 * Classe 2: Classificação dos produtos de acordo com o tipo de insumo que pode ou não ser necessário para sua manipulação, útil para identificar custos diretos. Exemplo: Porções quentes quase sempre são fritas, portanto utilizam gordura vegetal para o seu processamento. Interessante para poder trabalhar melhor a gestão de custos.
 * Classe 3: Classificação dos produtos de acordo com o nicho de clientes que atende, diferencia por exemplo cervejas Mainstream, Premium ou artesanais. Interessante para poder trabalhar melhor os direcionamentos de ações para melhorar as vendas.
+# 12.0 Estágio do Projeto
+![](img/project_status.jpg)
